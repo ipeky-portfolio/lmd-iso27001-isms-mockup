@@ -56,3 +56,68 @@ Es kann nicht nachgewiesen werden, dass implementierte Maßnahmen das Risiko tat
 
 Einstufung: Hauptabweichung  
 Zertifizierung aktuell nicht möglich.
+
+# 4. Nebenabweichungen (Minor Nonconformities)
+
+## NC-01 – Unvollständige Lieferantenbewertung
+
+Bezug: Annex A 5.19 / 5.20
+
+Für zwei IT-Dienstleister lag keine aktuelle Sicherheitsbewertung vor.
+Die letzte dokumentierte Bewertung war älter als 24 Monate.
+
+---
+
+## NC-02 – Awareness-Nachweise lückenhaft
+
+Bezug: Kapitel 7.2 Kompetenz
+
+Stichprobe: 10 Mitarbeitende  
+2 Mitarbeitende hatten keinen dokumentierten Schulungsnachweis für 2026.
+
+---
+
+## NC-03 – Restore-Test nicht vollständig dokumentiert
+
+Bezug: Annex A 8.13 Backup
+
+Ein monatlicher Restore-Test wurde laut Interview durchgeführt, jedoch nicht formell dokumentiert.
+
+---
+
+# 5. Beobachtungen (Opportunities for Improvement)
+
+OFI-01:
+KPIs sind definiert, jedoch fehlen Zielwerte für Incident-Response-Zeiten.
+
+OFI-02:
+Management Review sehr formal – strategische Ableitungen könnten stärker dokumentiert werden.
+
+OFI-03:
+Kein formalisierter Prozess für Lessons Learned nach Sicherheitsvorfällen.
+
+OFI-04:
+Penetrationstests erfolgen unregelmäßig.
+
+OFI-05:
+Dokumentenlenkung teilweise manuell – Automatisierung empfohlen.
+
+# 6. Positiv hervorzuheben
+
+- Sehr klar definierter Scope
+- Strukturierte Risikomethodik
+- Gutes Rollenmodell
+- Technische Sicherheitsbasis solide
+- Hohe Management-Beteiligung
+
+---
+
+# 7. Auditbewertung
+
+Status: Nicht zertifizierungsfähig aufgrund Major Nonconformity.
+
+Voraussetzung für Zertifizierung:
+
+- Nachweis der Wirksamkeitsprüfung aller Hochrisiko-Maßnahmen
+- Dokumentierte Korrekturmaßnahmen
+- Re-Audit innerhalb 90 Tage
